@@ -10,7 +10,7 @@
 #### - Juego al _lol_ soy diamante II / I **Nickname:** tarta de choclo.
 #### - Pertenezco a la hermandad 35ms.
 #### - **Redes:**
-1.[Instagram](https://www.instagram.com/gonzagarmon/?hl=es-la)
-2.[Twitter](https://twitter.com/GarmonGonzalo)
-3.[My anime list](https://myanimelist.net/profile/Falsehud)
+#### 1.[Instagram](https://www.instagram.com/gonzagarmon/?hl=es-la)
+#### 2.[Twitter](https://twitter.com/GarmonGonzalo)
+#### 3.[My anime list](https://myanimelist.net/profile/Falsehud)
 
