@@ -1,5 +1,5 @@
 # Presentación
 
-## Estudiante: _GonzaloGarmon_
+## Estudiante: _Gonzalo Garmon_
 ![mi foto](Foto.jpeg)
 
