@@ -3,7 +3,7 @@
 ## **Estudiante:** _Gonzalo Garmón_
 ![mi foto](Foto.jpeg)
 
-## `<***Descripcion sobre mi***>`
+## `Descripcion sobre mi`
 #### - Tengo 19 años y cumpló el 21 de julio
 #### - Me gusta hacer deporte, sobre todo basquet y voley ~~en el segundo me caigo a pedazos~~
 #### - Juego a muchos jueguitos sobre todo en steam [Steam](https://steamcommunity.com/profiles/76561198300100100/)
